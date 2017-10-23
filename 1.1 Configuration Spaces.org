@@ -1,0 +1,7 @@
+* Exercise 1.1
+a) 18; each of 3 pins has 3 position  3 rotation
+b) 2; longitude/latitude
+c) 4; each rod has longitude/latitude
+d) 1; distance along wire
+e) 2; azimuth/altitude of axis.
+f) 3; as before, but with additional rotation-around-axis
